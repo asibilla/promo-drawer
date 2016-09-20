@@ -1,3 +1,5 @@
+//http://www.gapfactory.com
+
 var PromoDrawerBrandManager = function() {
 	this.brand = this.findBrand();
 	var locale = gidLib.getCookie('locale');
